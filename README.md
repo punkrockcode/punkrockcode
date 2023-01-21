@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @punkrockcode from Argentina - Buenos Aires
 - 👀 I’m interested in learning, helping on any project that will give me knowledge and experience.
-- 🌱 I’m currently learning ... Javascript from Platzi and C# on Unity. 
+- 🌱 I’m currently learning ... Javascript Python and C# on Unity. 
 - 💞️ I’m looking to collaborate on ... front-end, back-end or any project where I can give a hand.
 - 📫 How to reach me ... you can contact me via email schianea@outlook.com
 
